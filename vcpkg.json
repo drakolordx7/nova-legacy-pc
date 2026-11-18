@@ -1,0 +1,16 @@
+{
+  "name": "nova-legacy-pc",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "boost-icl",
+    "boost-variant",
+    "sdl3",
+    "angle",
+    {
+      "name": "mimalloc",
+      "features": [
+        "override"
+      ]
+    }
+  ]
+}

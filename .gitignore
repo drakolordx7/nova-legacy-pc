@@ -1,0 +1,5 @@
+/game/
+build/
+.cache/
+*.apk
+third_party/ref/
