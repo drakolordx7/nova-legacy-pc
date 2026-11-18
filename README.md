@@ -1,12 +1,16 @@
-# N.O.V.A. Legacy for Windows (unofficial PC port, archived)
+# N.O.V.A. Legacy for Windows (unofficial PC port)
+
+## This project is abandoned
+
+It is finished and no longer maintained. The repository is archived, so issues and pull requests are closed. The code is free to use or fork.
+
+---
 
 Runs the campaign of Gameloft's Android game N.O.V.A. Legacy 5.8.4a natively on 64-bit Windows, with raw mouse aim, keyboard controls, any resolution or aspect ratio and an uncapped frame rate.
 
 [Download the build](https://github.com/drakolordx7/nova-legacy-pc/releases/latest)
 
 No game files are included. You need your own copy of the N.O.V.A. Legacy 5.8.4a APK (the arm64 build, package `com.gameloft.android.ANMP.GloftNOHM`). Not affiliated with Gameloft.
-
-This project is finished and the repository is read-only. It is here so anyone can use it or pick it up. Nothing will be fixed or updated.
 
 ## How it works
 
